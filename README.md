@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulCodeRec
-- 👀 I’m interested in Web Scraping and Test Automation Tools
+- 👀 I’m interested in Python & Web Scraping using Python
 - 🌱 I’m currently learning Web Scraping and saving into different formats like CSV,Excel,Text and in DBs
-- 💞️ I’m looking to collaborate on Web Scraping and data mining projects
+- 💞️ I’m looking to collaborate on Python Web Scraping 
 - 📫 Any body can reach me at rahul.hmritm@gmail.com and my Mob: 7018108885
 
 <!---
